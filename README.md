@@ -1,4 +1,6 @@
-# 小木同学 Builds
+<div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&amp;weight=700&amp;size=17&amp;color=C98A4A&amp;center=false&amp;pause=100000&amp;lines=Hi%2C+I%27m+%E5%B0%8F%E6%9C%A8%E5%90%8C%E5%AD%A6." alt="Hi, I'm 小木同学." />
+</div>
 
 **by Leon / [@Leon-KTlan](https://github.com/Leon-KTlan)**
 
